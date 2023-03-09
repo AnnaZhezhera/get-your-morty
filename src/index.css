@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import 'normalize.css/normalize.css';
 @import url('./styles.css/styles.css');
 
 body {
